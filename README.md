@@ -1,5 +1,5 @@
 # CursoGIT
-Repositorio para el curso de GIT
+Repositorio para el curso de GIT de IPAP
 
 Laboratorio 1:
 1. Crear un repositorio en GitHub o GitLab con un README.md con la
